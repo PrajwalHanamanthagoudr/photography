@@ -1,5 +1,5 @@
 # Mallu The Photographer
-
+website is live on:- https://prajwalhanamanthagoudr.github.io/photography/
 ## Project setup
 ```
 npm install
